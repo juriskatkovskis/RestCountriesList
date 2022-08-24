@@ -13,3 +13,4 @@ struct Country: Codable{
 struct Name: Codable{
     let official, common: String?
 }
+
